@@ -9,7 +9,7 @@ This is a selection of state-of-the-art research materials (datasets, blogs, pap
 
 **Maintainer**: [**Naren Bao**](https://honalele.github.io/homepage/) (Gradute School of Informatics, Nagoya University)
 
-**Email** :bao.naren@g.sp.m.is.nagoya-u.ac.jp
+**Email**: bao.naren@g.sp.m.is.nagoya-u.ac.jp
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
