@@ -42,3 +42,20 @@ location = {Auckland, New Zealand}
 	- [Benchmark and Evaluation Metrics](#benchmark-and-evaluation-metrics)
 	- [Others](#others)
 <!-- /TOC -->
+
+
+## **Datasets**
+|                           Dataset                            |            **Driver Info**            |         Scenarios         |        Sensors         |
+| :----------------------------------------------------------: | :--------------------------: | :-----------------------: | :--------------------: |
+|      [INTERACTION](http://www.interaction-dataset.com/)      | -  | Roundabout / intersection |     Camera     |
+|        [KITTI](http://www.cvlibs.net/datasets/kitti/)        | -  |   Highway / rural areas   |     Camera / LiDAR     |
+|           [HighD](https://www.highd-dataset.com/)            | -  |          Highway          |         Camera         |
+| [NGSIM](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) |    -     |      Highway   |         Camera         |
+|            [nuScenes](https://www.nuscenes.org/)             |           -           |           Urban           | Camera / LiDAR / RADAR |
+|  [BDD100k](https://bdd-data.berkeley.edu/)           | - |      Highway / urban      |         Camera         |
+| [Apolloscapes](http://apolloscape.auto/?source=post_page-) | - |           Urban           |         Camera         |
+| [Argoverse](https://www.argoverse.org/)            |      -     |           Urban           |     Camera / LiDAR     |
+[Lyft Level 5](https://level5.lyft.com/dataset/)               | 20     | Urban                     | Camera/ LiDAR      
+
+
+
