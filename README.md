@@ -63,5 +63,6 @@ location = {Auckland, New Zealand}
 ### Survey Papers
 ### Model Predictive Control
 - Learning-based Model Predictive Control for Safe Exploration, CDC 2018 \[[paper](https://arxiv.org/abs/1803.08287)\]
+- Practical Reinforcement Learning For MPC: Learning from sparse objectives in under an hour on a real robot, 2020 \[[paper](https://arxiv.org/pdf/2003.03200.pdf)\]
 
 
