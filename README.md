@@ -67,5 +67,8 @@ location = {Auckland, New Zealand}
 - ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions, 2020 [[paper](https://arxiv.org/pdf/2003.01410.pdf)\]
 - Adaptive MPC under Time Varying Uncertainty: Robust and Stochastic, 2020 [[paper](https://arxiv.org/pdf/1909.13473.pdf)\]
 
+### Data-driven Control
+- Informed Information Theoretic Model Predictive Control, ICRA 2019 \[[paper](https://arxiv.org/pdf/1707.02342.pdf)\]
+
 
 
