@@ -71,4 +71,5 @@ location = {Auckland, New Zealand}
 - Informed Information Theoretic Model Predictive Control, ICRA 2019 \[[paper](https://arxiv.org/pdf/1707.02342.pdf)\]
 
 
-
+### Decision Making
+Driver Lane Change Intention Inference for Intelligent Vehicles: Framework, Survey, and Challenges, IVT 2019 [[paper](https://ieeexplore.ieee.org/document/8661600)\]
