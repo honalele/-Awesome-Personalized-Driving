@@ -34,7 +34,7 @@ location = {Auckland, New Zealand}
 	- [Vehicles and Drivers](#vehicles-and-drivers)
 - [**Literature and Codes**](#literature-and-codes)
 	- [Survey Papers](#survey-papers)
-	- [Driver Model](#driver-model)
+	- [Personalized Driver Model](#personalized-driver-model)
 	- [Model Predictive Control](#model-predictive-control)
 	- [Data-driven Control](#data-driven-control)
 	- [Decision Making](#decision-making)
@@ -61,11 +61,24 @@ location = {Auckland, New Zealand}
 
 ## **Literature and Codes**
 ### Survey Papers
+### Personalized Driver Model
+- A Learning-Based Approach for Lane Departure Warning Systems With a Personalized Driver Model\[[paper](https://www.researchgate.net/publication/313394477_A_Learning-Based_Approach_for_Lane_Departure_Warning_Systems_With_a_Personalized_Driver_Model)\]
+
+- Development and Evaluation of Two Learning-Based Personalized Driver Models for Car-Following Behaviors\[[paper](https://www.researchgate.net/publication/314797658_Development_and_Evaluation_of_Two_Learning-Based_Personalized_Driver_Models_for_Car-Following_Behaviors)\]
+
+- How Much Data Are Enough? A Statistical Approach With Case Study on Longitudinal Driving Behavior\[[paper](https://www.researchgate.net/publication/317887204_How_Much_Data_Are_Enough_A_Statistical_Approach_With_Case_Study_on_Longitudinal_Driving_Behavior)\]
+
+- Evaluation of Lane Departure Correction Systems Using a Stochastic Driver Model
+ [[paper](https://www.researchgate.net/publication/313857392_Evaluation_of_Lane_Departure_Correction_Systems_Using_a_Stochastic_Driver_Model)\]
+
 ### Model Predictive Control
 - Learning-based Model Predictive Control for Safe Exploration, CDC 2018 \[[paper](https://arxiv.org/abs/1803.08287)\]
 - Practical Reinforcement Learning For MPC: Learning from sparse objectives in under an hour on a real robot, 2020 \[[paper](https://arxiv.org/pdf/2003.03200.pdf)\]
 - ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions, 2020 [[paper](https://arxiv.org/pdf/2003.01410.pdf)\]
 - Adaptive MPC under Time Varying Uncertainty: Robust and Stochastic, 2020 [[paper](https://arxiv.org/pdf/1909.13473.pdf)\]
+
+
+
 
 ### Data-driven Control
 - Informed Information Theoretic Model Predictive Control, ICRA 2019 \[[paper](https://arxiv.org/pdf/1707.02342.pdf)\]
