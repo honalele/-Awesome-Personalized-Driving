@@ -55,8 +55,8 @@ location = {Auckland, New Zealand}
 |  [BDD100k](https://bdd-data.berkeley.edu/)           | - |      Highway / urban      |         Camera         |
 | [Apolloscapes](http://apolloscape.auto/?source=post_page-) | - |           Urban           |         Camera         |
 | [Argoverse](https://www.argoverse.org/)            |      -     |           Urban           |     Camera / LiDAR     |
-[Lyft Level 5](https://level5.lyft.com/dataset/)               | 20     | Urban                     | Camera/ LiDAR      
-[**Ours NU_lane_changes**](https://level5.lyft.com/dataset/)               | 11    | Highway                     | Camera/ CAN 
+[Lyft Level 5](https://level5.lyft.com/dataset/)               | 20     | Urban                     | Camera/ LiDAR      |
+[**Ours NU_lane_changes**](https://level5.lyft.com/dataset/)               | 11    | Highway                     | Camera/ CAN |
 
 
 ## **Literature and Codes**
