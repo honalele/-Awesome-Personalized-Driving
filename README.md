@@ -62,7 +62,7 @@ location = {Auckland, New Zealand}
 ## **Literature and Codes**
 ### Survey Papers
 ### Personalized Driver Model
-- A Learning-Based Approach for Lane Departure Warning Systems With a Personalized Driver Model\[[paper](https://www.researchgate.net/publication/313394477_A_Learning-Based_Approach_for_Lane_Departure_Warning_Systems_With_a_Personalized_Driver_Model)\]
+- A Learning-Based Approach for Lane Departure Warning Systems With a Personalized Driver Model, IEEE TVT 2018\[[paper](https://www.researchgate.net/publication/313394477_A_Learning-Based_Approach_for_Lane_Departure_Warning_Systems_With_a_Personalized_Driver_Model)\]
 - Development and Evaluation of Two Learning-Based Personalized Driver Models for Car-Following Behaviors\[[paper](https://www.researchgate.net/publication/314797658_Development_and_Evaluation_of_Two_Learning-Based_Personalized_Driver_Models_for_Car-Following_Behaviors)\]
 - How Much Data Are Enough? A Statistical Approach With Case Study on Longitudinal Driving Behavior\[[paper](https://www.researchgate.net/publication/317887204_How_Much_Data_Are_Enough_A_Statistical_Approach_With_Case_Study_on_Longitudinal_Driving_Behavior)\]
 - Evaluation of Lane Departure Correction Systems Using a Stochastic Driver Model
