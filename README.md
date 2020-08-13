@@ -69,10 +69,12 @@ location = {Auckland, New Zealand}
  [[paper](https://www.researchgate.net/publication/313857392_Evaluation_of_Lane_Departure_Correction_Systems_Using_a_Stochastic_Driver_Model)\]
 
 ### Model Predictive Control
+- Learning Convex Optimization Control Policies, Proceedings of Machine Learning Research 2020.\[[paper&code](https://web.stanford.edu/~boyd/papers/learning_cocps.html)\]
 - Learning-based Model Predictive Control for Safe Exploration, CDC 2018 \[[paper](https://arxiv.org/abs/1803.08287)\]
 - Practical Reinforcement Learning For MPC: Learning from sparse objectives in under an hour on a real robot, 2020 \[[paper](https://arxiv.org/pdf/2003.03200.pdf)\]
 - ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions, 2020 [[paper](https://arxiv.org/pdf/2003.01410.pdf)\]
 - Adaptive MPC under Time Varying Uncertainty: Robust and Stochastic, 2020 [[paper](https://arxiv.org/pdf/1909.13473.pdf)\]
+
 
 
 
