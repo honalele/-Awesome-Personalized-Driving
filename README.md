@@ -84,4 +84,4 @@ location = {Auckland, New Zealand}
 
 
 ### Decision Making
-Driver Lane Change Intention Inference for Intelligent Vehicles: Framework, Survey, and Challenges, IVT 2019 [[paper](https://ieeexplore.ieee.org/document/8661600)\]
+- Driver Lane Change Intention Inference for Intelligent Vehicles: Framework, Survey, and Challenges, IVT 2019 [[paper](https://ieeexplore.ieee.org/document/8661600)\]
