@@ -56,7 +56,7 @@ location = {Auckland, New Zealand}
 | [Apolloscapes](http://apolloscape.auto/?source=post_page-) | - |           Urban           |         Camera         |
 | [Argoverse](https://www.argoverse.org/)            |      -     |           Urban           |     Camera / LiDAR     |
 [Lyft Level 5](https://level5.lyft.com/dataset/)               | 20     | Urban                     | Camera/ LiDAR      |
-[**Ours NU_lane_changes**]               | 11    | Highway                     | Camera/ CAN |
+**Ours NU_lane_changes**               | 11    | Highway                     | Camera/ CAN |
 
 
 ## **Literature and Codes**
