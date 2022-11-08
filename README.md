@@ -81,6 +81,7 @@ location = {Auckland, New Zealand}
 
 ### Data-driven Control
 - Informed Information Theoretic Model Predictive Control, ICRA 2019 \[[paper](https://arxiv.org/pdf/1707.02342.pdf)\]
+- Data-Driven Risk-Sensitive Control for Personalized Lane Change Maneuvers, IEEE Access\[[paper](https://ieeexplore.ieee.org/document/9745149)\]
 
 
 ### Decision Making
